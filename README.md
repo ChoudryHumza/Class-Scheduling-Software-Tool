@@ -1,4 +1,4 @@
-# classSchedule
+# Web Class Scheduling Software Tool
 
 ***In depth explaination of project coming very soon***
 
