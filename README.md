@@ -1,6 +1,5 @@
 # Web Class Scheduling Software Tool
 
-***In depth explaination of project coming very soon***
 
 - This is an implementation of a class scheduling software tool.
 - A web tool that generates a weekly schedule for all rooms based on user inputs (rooms, courses, and course-related information).
